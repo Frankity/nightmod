@@ -3,7 +3,7 @@ class "Visuals"
 local g_Logger = require "__shared/Logger"
 
 function Visuals:__init()
-	g_Logger:Write("ZombiesVisuals init.")
+	g_Logger:Write("Visuals init.")
 end
 
 function Visuals:OnStateChanged(p_State)
