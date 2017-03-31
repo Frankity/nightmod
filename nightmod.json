@@ -1,0 +1,9 @@
+{
+	"Name": "nightmod",
+	"Authors": [ "Frankity" ],
+	"Description": "A night mod",
+	"URL": "http://douglasbrunal.co",
+	"Version": 1,
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
